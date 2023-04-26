@@ -15,11 +15,11 @@
 
 <br>
 
-![Sticky Navigation]()
+![Sticky Navigation](images/sticky-navigation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Sticky-Navigation/)
 
 <br>
 
